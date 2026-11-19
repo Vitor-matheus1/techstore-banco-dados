@@ -64,4 +64,4 @@ O banco de dados `techstore` é estruturado em **8 tabelas relacionais**:
 4. `banco/consultas.sql` — Executa filtros (`LIKE`, `BETWEEN`, `IN`, `IS NULL`), junções (`INNER JOIN`, `LEFT JOIN`), agregações (`GROUP BY`, `HAVING`) e os 8 relatórios operacionais e gerenciais.
 5. `banco/views_procedures.sql` — Cria as 5 Views e as 5 Stored Procedures da Etapa 4.
 
-eaeeee
+- Constantino esteve aqui, e realizou uma branch seguido de um merge.
