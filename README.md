@@ -63,3 +63,5 @@ O banco de dados `techstore` é estruturado em **8 tabelas relacionais**:
 3. `banco/inserts.sql` — Insere a massa de dados inicial (5 categorias, 5 fornecedores, 10 clientes, 5 vendedores, 20 produtos, 30 pedidos, 62 itens de pedido e 30 pagamentos).
 4. `banco/consultas.sql` — Executa filtros (`LIKE`, `BETWEEN`, `IN`, `IS NULL`), junções (`INNER JOIN`, `LEFT JOIN`), agregações (`GROUP BY`, `HAVING`) e os 8 relatórios operacionais e gerenciais.
 5. `banco/views_procedures.sql` — Cria as 5 Views e as 5 Stored Procedures da Etapa 4.
+
+eaeeee
