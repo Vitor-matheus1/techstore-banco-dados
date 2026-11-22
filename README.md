@@ -1,2 +1,2 @@
 # TechStore 
-Alteração via CMD
+Alteração via CMD, testenado
